@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.02.2023 22:59 4 день",
+	"lastEventDate": "16.02.2023 23:03 4 день",
 	"status": 2,
 	"id": "100089998056619",
 	"name": "",
@@ -60,7 +60,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708119325.15449,
+			"expirationDate": 1708124420.639777,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -86,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677188114,
+			"expirationDate": 1677193162,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -107,11 +107,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676583326373%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676588367338%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708119325.154524,
+			"expirationDate": 1708124420.639808,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -120,11 +120,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AQX406BZGFSOoaA%3A2%3A1675079533%3A-1%3A-1%3A%3AAcWzkNi9wFnBz4kOY01j7N5dstg8UVnRW9rvskwWnw"
+			"value": "17%3AQX406BZGFSOoaA%3A2%3A1675079533%3A-1%3A-1%3A%3AAcUcfDvtdTdLDKUPzOu7C9ell8pUZH8xTUul8yScjQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684359343.351435,
+			"expirationDate": 1684364418.63982,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -133,7 +133,12 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0hL8N6bjJccbFHQlH.AWVcpDs57Xsg2BfrUPF2ThGJ2jg.Bj7qGe.qh.AAA.0.0.Bj7qGw.AWVSXgxmiEw"
+			"value": "0TiLqsbupI6KG2nb6.AWUyRMNmFfDayoLDlMGGznMiw_Y.Bj7rWG.qh.AAA.0.0.Bj7rWG.AWWHZqTMDwg"
 		}
-	]
+	],
+	"amountFriends": "",
+	"screenname": "Млада Шестакова",
+	"birthdate": "1982 November 20",
+	"country": "Volodarka",
+	"isAvatarExists": false
 }
