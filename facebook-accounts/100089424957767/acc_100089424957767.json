@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 20:01 1 день",
+	"lastEventDate": "21.02.2023 20:03 1 день",
 	"status": 2,
 	"id": "100089424957767",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Руслана Феофанова",
-	"birthdate": "1981 June 23",
-	"country": "",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -78,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708545097.315322,
+			"expirationDate": 1708545432.088137,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -104,7 +100,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677614155,
+			"expirationDate": 1708545432.088189,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "18%3AvgJuLrAyI6svdQ%3A2%3A1674951576%3A-1%3A-1%3A%3AAcUzqJOxyDo8uGzJaLEWV56jKF28wI1s-kJLKEQwfA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677614616,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,20 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708545097.315382,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "18%3AvgJuLrAyI6svdQ%3A2%3A1674951576%3A-1%3A-1%3A%3AAcU75E6Xs6chn7uZ0fF9i7VzTA1c9SptHJjk4VX6tg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684785095.315405,
+			"expirationDate": 1684785684.629475,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KJ8cRLuMCJ6tE0Yy.AWVdReAxt8Ss20pxF_hBajYpJms.Bj9SDN.5k.AAA.0.0.Bj9SDN.AWVfe71YKS4"
+			"value": "05OjVoldaQoclZ12r.AWUMTe29maMtn1Ao2kbUoLUXKEk.Bj9SIb.5k.AAA.0.0.Bj9SMY.AWWwNZ03-kY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +147,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677009234478%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677009804703%2C%22v%22%3A1%7D"
 		}
 	]
 }
